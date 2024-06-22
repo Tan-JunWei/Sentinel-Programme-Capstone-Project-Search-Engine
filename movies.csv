@@ -1,0 +1,156 @@
+title,director,year,genre
+The Shawshank Redemption,Frank Darabont,1994,Drama
+The Godfather,Francis Ford Coppola,1972,Crime| Drama
+The Dark Knight,Christopher Nolan,2008,Action| Crime| Drama
+Forrest Gump,Robert Zemeckis,1994,Drama| Romance
+Inception,Christopher Nolan,2010,Action| Adventure| Sci-Fi
+The Matrix,Lana Wachowski| Lilly Wachowski,1999,Action| Sci-Fi
+Avengers: Infinity War,Anthony Russo| Joe Russo,2018,Action| Adventure| Sci-Fi
+Back to the Future,Robert Zemeckis,1985,Adventure| Comedy| Sci-Fi
+The Lion King,Roger Allers| Rob Minkoff,1994,Animation| Adventure| Drama
+Pulp Fiction,Quentin Tarantino,1994,Crime| Drama
+Fight Club,David Fincher,1999,Drama
+Interstellar,Christopher Nolan,2014,Adventure| Drama| Sci-Fi
+Spirited Away,Hayao Miyazaki,2001,Animation| Adventure| Family
+La La Land,Damien Chazelle,2016,Comedy| Drama| Music
+Jurassic Park,Steven Spielberg,1993,Action| Adventure| Sci-Fi
+Titanic,James Cameron,1997,Drama| Romance
+The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,2001,Adventure| Drama| Fantasy
+Star Wars: Episode IV - A New Hope,George Lucas,1977,Action| Adventure| Fantasy
+Goodfellas,Martin Scorsese,1990,Biography| Crime| Drama
+The Silence of the Lambs,Jonathan Demme,1991,Crime| Drama| Thriller
+Mad Max: Fury Road,George Miller,2015,Action| Adventure| Sci-Fi
+Blade Runner 2049,Denis Villeneuve,2017,Action| Drama| Mystery
+The Grand Budapest Hotel,Wes Anderson,2014,Adventure| Comedy| Crime
+Moonlight,Barry Jenkins,2016,Drama
+Her,Spike Jonze,2013,Drama| Romance| Sci-Fi
+Whiplash,Damien Chazelle,2014,Drama| Music
+The Incredibles,Brad Bird,2004,Action| Animation| Adventure
+Gladiator,Ridley Scott,2000,Action| Adventure| Drama
+Black Panther,Ryan Coogler,2018,Action| Adventure| Sci-Fi
+Dunkirk,Christopher Nolan,2017,Action| Drama| History
+Get Out,Jordan Peele,2017,Horror| Mystery| Thriller
+The Prestige,Christopher Nolan,2006,Drama| Mystery| Sci-Fi
+The Departed,Martin Scorsese,2006,Crime| Drama| Thriller
+Amélie,Jean-Pierre Jeunet,2001,Comedy| Romance
+Eternal Sunshine of the Spotless Mind,Michel Gondry,2004,Drama| Romance| Sci-Fi
+Toy Story,John Lasseter,1995,Animation| Adventure| Comedy
+Saving Private Ryan,Steven Spielberg,1998,Drama| War
+Coco,Lee Unkrich| Adrian Molina,2017,Animation| Adventure| Family
+The Big Lebowski,Joel Coen| Ethan Coen,1998,Comedy| Crime
+Arrival,Denis Villeneuve,2016,Drama| Sci-Fi| Thriller
+No Country for Old Men,Joel Coen| Ethan Coen,2007,Crime| Drama| Thriller
+Slumdog Millionaire,Danny Boyle,2008,Drama| Romance
+The Social Network,David Fincher,2010,Biography| Drama
+A Beautiful Mind,Ron Howard,2001,Biography| Drama
+Life of Pi,Ang Lee,2012,Adventure| Drama| Fantasy
+Gone Girl,David Fincher,2014,Drama| Mystery| Thriller
+The King's Speech,Tom Hooper,2010,Biography| Drama| History
+Silver Linings Playbook,David O. Russell,2012,Comedy| Drama| Romance
+The Imitation Game,Morten Tyldum,2014,Biography| Drama| Thriller
+Birdman,Alejandro G. Iñárritu,2014,Comedy| Drama
+Gravity,Alfonso Cuarón,2013,Adventure| Drama| Sci-Fi
+The Help,Tate Taylor,2011,Drama
+Les Misérables,Tom Hooper,2012,Drama| Musical| Romance
+Drive,Nicolas Winding Refn,2011,Crime| Drama
+The Wolf of Wall Street,Martin Scorsese,2013,Biography| Crime| Drama
+Boyhood,Richard Linklater,2014,Drama
+The Theory of Everything,James Marsh,2014,Biography| Drama| Romance
+Spotlight,Tom McCarthy,2015,Biography| Crime| Drama
+Room,Lenny Abrahamson,2015,Drama| Thriller
+Ex Machina,Alex Garland,2014,Drama| Sci-Fi| Thriller
+The Revenant,Alejandro G. Iñárritu,2015,Action| Adventure| Drama
+Brooklyn,John Crowley,2015,Drama| Romance
+The Martian,Ridley Scott,2015,Adventure| Drama| Sci-Fi
+Sicario,Denis Villeneuve,2015,Action| Crime| Drama
+The Lobster,Yorgos Lanthimos,2015,Comedy| Drama| Romance
+Carol,Todd Haynes,2015,Drama| Romance
+The Hateful Eight,Quentin Tarantino,2015,Crime| Drama| Mystery
+Bridge of Spies,Steven Spielberg,2015,Drama| History| Thriller
+Moonrise Kingdom,Wes Anderson,2012,Adventure| Comedy| Drama
+Inside Out,Pete Docter,2015,Animation| Adventure| Comedy
+Django Unchained,Quentin Tarantino,2012,Drama| Western
+Inglourious Basterds,Quentin Tarantino,2009,Adventure| Drama| War
+Pan's Labyrinth,Guillermo del Toro,2006,Drama| Fantasy| War
+The Shape of Water,Guillermo del Toro,2017,Drama| Fantasy| Romance
+Manchester by the Sea,Kenneth Lonergan,2016,Drama
+The Witch,Robert Eggers,2015,Horror| Mystery
+Call Me by Your Name,Luca Guadagnino,2017,Drama| Romance
+Lady Bird,Greta Gerwig,2017,Comedy| Drama
+Phantom Thread,Paul Thomas Anderson,2017,Drama| Romance
+The Florida Project,Sean Baker,2017,Drama
+Three Billboards Outside Ebbing, Missouri | Martin McDonagh,2017,Crime| Drama
+BlacKkKlansman,Spike Lee,2018,Biography| Crime| Drama
+Isle of Dogs,Wes Anderson,2018,Animation| Adventure| Comedy
+Green Book,Peter Farrelly,2018,Biography| Comedy| Drama
+The Favourite,Yorgos Lanthimos,2018,Biography| Comedy| Drama
+Roma,Alfonso Cuarón,2018,Drama
+First Man,Damien Chazelle,2018,Biography| Drama| History
+Black Swan,Darren Aronofsky,2010,Drama| Thriller
+Little Women,Greta Gerwig,2019,Drama| Romance
+Joker,Todd Phillips,2019,Crime| Drama| Thriller
+Parasite,Bong Joon Ho,2019,Comedy| Drama| Thriller
+1917,Sam Mendes,2019,Drama| War
+Jojo Rabbit,Taika Waititi,2019,Comedy| Drama| War
+Ford v Ferrari,James Mangold,2019,Action| Biography| Drama
+The Irishman,Martin Scorsese,2019,Biography| Crime| Drama
+Marriage Story,Noah Baumbach,2019,Drama| Romance
+Once Upon a Time in Hollywood,Quentin Tarantino,2019,Comedy| Drama
+Knives Out,Rian Johnson,2019,Comedy| Crime| Drama
+Midsommar,Ari Aster,2019,Drama| Horror| Mystery
+The Lighthouse,Robert Eggers,2019,Drama| Fantasy| Horror
+Uncut Gems,Benny Safdie| Josh Safdie,2019,Crime| Drama| Thriller
+Logan,James Mangold,2017,Action| Drama| Sci-Fi
+A Star Is Born,Bradley Cooper,2018,Drama| Music| Romance
+The Big Short,Adam McKay,2015,Biography| Comedy| Drama
+Hacksaw Ridge,Mel Gibson,2016,Biography| Drama| War
+Guardians of the Galaxy,James Gunn,2014,Action| Adventure| Comedy
+The Shawshank Redemption,Frank Darabont,1994,Drama
+The Godfather,Francis Ford Coppola,1972,Crime| Drama
+The Dark Knight,Christopher Nolan,2008,Action| Crime| Drama
+Forrest Gump,Robert Zemeckis,1994,Drama| Romance
+Inception,Christopher Nolan,2010,Action| Adventure| Sci-Fi
+The Matrix,Lana Wachowski| Lilly Wachowski,1999,Action| Sci-Fi
+Avengers: Infinity War,Anthony Russo| Joe Russo,2018,Action| Adventure| Sci-Fi
+Back to the Future,Robert Zemeckis,1985,Adventure| Comedy| Sci-Fi
+The Lion King,Roger Allers| Rob Minkoff,1994,Animation| Adventure| Drama
+Pulp Fiction,Quentin Tarantino,1994,Crime| Drama
+Fight Club,David Fincher,1999,Drama
+Interstellar,Christopher Nolan,2014,Adventure| Drama| Sci-Fi
+Spirited Away,Hayao Miyazaki,2001,Animation| Adventure| Family
+La La Land,Damien Chazelle,2016,Comedy| Drama| Music
+Jurassic Park,Steven Spielberg,1993,Action| Adventure| Sci-Fi
+Titanic,James Cameron,1997,Drama| Romance
+The Lord of the Rings: The Fellowship of the Ring,Peter Jackson,2001,Adventure| Drama| Fantasy
+Star Wars: Episode IV - A New Hope,George Lucas,1977,Action| Adventure| Fantasy
+Goodfellas,Martin Scorsese,1990,Biography| Crime| Drama
+The Silence of the Lambs,Jonathan Demme,1991,Crime| Drama| Thriller
+Mad Max: Fury Road,George Miller,2015,Action| Adventure| Sci-Fi
+Blade Runner 2049,Denis Villeneuve,2017,Action| Drama| Mystery
+The Grand Budapest Hotel,Wes Anderson,2014,Adventure| Comedy| Crime
+Moonlight,Barry Jenkins,2016,Drama
+Her,Spike Jonze,2013,Drama| Romance| Sci-Fi
+Whiplash,Damien Chazelle,2014,Drama| Music
+The Incredibles,Brad Bird,2004,Action| Animation| Adventure
+Gladiator,Ridley Scott,2000,Action| Adventure| Drama
+Black Panther,Ryan Coogler,2018,Action| Adventure| Sci-Fi
+Dunkirk,Christopher Nolan,2017,Action| Drama| History
+Get Out,Jordan Peele,2017,Horror| Mystery| Thriller
+The Prestige,Christopher Nolan,2006,Drama| Mystery| Sci-Fi
+The Departed,Martin Scorsese,2006,Crime| Drama| Thriller
+Amélie,Jean-Pierre Jeunet,2001,Comedy| Romance
+Eternal Sunshine of the Spotless Mind,Michel Gondry,2004,Drama| Romance| Sci-Fi
+Toy Story,John Lasseter,1995,Animation| Adventure| Comedy
+Saving Private Ryan,Steven Spielberg,1998,Drama| War
+Coco,Lee Unkrich| Adrian Molina,2017,Animation| Adventure| Family
+The Big Lebowski,Joel Coen| Ethan Coen,1998,Comedy| Crime
+Arrival,Denis Villeneuve,2016,Drama| Sci-Fi| Thriller
+No Country for Old Men,Joel Coen| Ethan Coen,2007,Crime| Drama| Thriller
+Slumdog Millionaire,Danny Boyle,2008,Drama| Romance
+The Social Network,David Fincher,2010,Biography| Drama
+A Beautiful Mind,Ron Howard,2001,Biography| Drama
+Life of Pi,Ang Lee,2012,Adventure| Drama| Fantasy
+Gone Girl,David Fincher,2014,Drama| Mystery| Thriller
+The King's Speech,Tom Hooper,2010,Biography| Drama| History
+Silver Linings Playbook,David O. Russell,2012,Comedy| Drama| Romance
+Amelie,Jean-Pierre Jeunet,2001,Comedy| Romance
